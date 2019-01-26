@@ -1,0 +1,46 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+header.section-heading {
+  text-align: center;
+}
+
+h1.education-content {
+  font-weight: bold;
+  color: #000000;
+  font-size: 54px;
+}
+
+span.expandmind {
+  font-weight: bold;
+  color: #000000;
+  font-size: 24px;
+}
+
+body {
+    text-align: center;
+}
+#card-container {
+  display: inline-block;
+  /* border: 1px dotted black; */
+}
+
+#card-container > div {
+  width: 928px; // 200 + 10 + 200 + 10 + 200 + 10 + 200
+  /* border: 1px dotted black; */
+}
+
+.card {
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px #777;
+  margin: 10px;
+  float: left;
+  padding: 5px;
+  height: 120px;
+  width: 200px;
+  background-color: black;
+  color: white;
+}
