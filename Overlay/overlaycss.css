@@ -1,0 +1,17 @@
+#overlay_1{
+  background: blue ;
+  position: absolute ;
+  display: none ; 
+}
+
+#overlay_2{
+  background: red ;
+  position: absolute ;
+  display: none ; 
+}
+
+#video{
+  width: 500px ; 
+  height: 300px ;
+  background: grey ; 
+}
